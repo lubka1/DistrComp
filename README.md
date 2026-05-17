@@ -6,6 +6,7 @@ A cloud-native Vehicle-to-Infrastructure (V2I) simulation platform built with mi
 The project simulates assisted-driving communication between vehicle ECUs and backend infrastructure using distributed services, asynchronous messaging, and real-time monitoring.
 
 ### Environment Setup
+```bash
 conda env create -f environment.yml
 conda activate auto2
 
