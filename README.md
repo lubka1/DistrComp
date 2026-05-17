@@ -23,17 +23,6 @@ The project simulates assisted-driving communication between vehicle ECUs and ba
 - Spring Boot
 - RabbitMQ
 - MongoDB
-- React + Leaflet
-- GitHub Actions
-
-## Features
-
-- Real-time vehicle tracking
-- Event-driven microservice communication
-- Emergency brake triggering
-- Kubernetes orchestration
-- Scalable and fault-tolerant architecture
-- Infrastructure as Code deployment
 
 ## Deployment
 
