@@ -9,7 +9,7 @@ The project simulates assisted-driving communication between vehicle ECUs and ba
 ```bash
 conda env create -f environment.yml
 conda activate auto2
-
+```bash
 ## Microservices
 
 - WHEREAMI — vehicle GPS tracking
