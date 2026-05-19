@@ -7,7 +7,7 @@ The project simulates assisted-driving communication between vehicle ECUs and ba
 
 ### Environment Setup
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate auto2
 ```
 
